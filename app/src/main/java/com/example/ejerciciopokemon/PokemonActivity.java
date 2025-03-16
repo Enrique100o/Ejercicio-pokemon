@@ -31,7 +31,7 @@ public class PokemonActivity extends AppCompatActivity {
         pikachuObjeto.atacarRayoCarga();
         charmanderObjeto=new Charmander();
         charmanderObjeto.numPokedex=4;
-        charmanderObjeto.nombre="charmander 420";
+        charmanderObjeto.nombre="charmander";
         charmanderObjeto.peso=8.6;
         charmanderObjeto.sexo="macho";
         charmanderObjeto.temporada="primera";
@@ -41,7 +41,7 @@ public class PokemonActivity extends AppCompatActivity {
         charmanderObjeto.atacarPunioFuego();
         squirtleObjeto = new  Squirtle();
         squirtleObjeto.numPokedex=4;
-        squirtleObjeto.nombre="Squirtle 777";
+        squirtleObjeto.nombre="Squirtle";
         squirtleObjeto.peso=8.6;
         squirtleObjeto.sexo="macho";
         squirtleObjeto.temporada="primera";
@@ -52,7 +52,7 @@ public class PokemonActivity extends AppCompatActivity {
         squirtleObjeto.atacarHidropulso();
         bulbasaurObjeto=new Bulbasaur();
         bulbasaurObjeto.numPokedex=43;
-        bulbasaurObjeto.nombre="Bulbarsaur Xenize";
+        bulbasaurObjeto.nombre="Bulbarsaur";
         bulbasaurObjeto.peso=10;
         bulbasaurObjeto.sexo="hembra";
         bulbasaurObjeto.temporada="primera";
